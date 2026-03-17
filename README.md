@@ -1,6 +1,6 @@
 # LAB-4-Hospital-Management
-# NAME: THAJESH  K
-# REG.NO: 212223230229
+# NAME:DHARSHINI R
+# REG.NO: 212224220023
 ## AIM:
 To develop the Hospital management System using Star UML tool.
 ## PROBLEM STATEMENT:
